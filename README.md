@@ -58,6 +58,17 @@ This project was born out of a desire to help. Whether you are a developer, desi
 
 ------------------------------------------------------------------------------------
 
+## ❤️ Credits & 🙏 Remerciements
+
+Je tiens à remercier les auteurs de **[https://github.com/comfyanonymous/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** pour leur incroyable travail en open-source. Ce projet ne pourrait pas exister sans les outils puissants qu'ils partagent avec la communauté.
+**[https://github.com/comfyanonymous/ComfyUI](https://github.com/Comfy-Org/ComfyUI)**- L'interface de génération d'images utilisée pour ce projet.
+
+## ❤️ Credits & 🙏 Thanks
+A special thank you to the creators of **[https://github.com/comfyanonymous/ComfyUI](https://github.com/Comfy-Org/ComfyUI)**. Their incredible work in the field of AI interface design has been instrumental in building this tool. By making their technology accessible, they allow us to create innovative solutions for children with autism and their families.
+**[https://github.com/comfyanonymous/ComfyUI](https://github.com/Comfy-Org/ComfyUI)**
+
+------------------------------------------------------------------------------------
+
 ## ⚖️ Licensing
 
 This project uses a dual-licensing model to respect open-source requirements while protecting artistic output:
