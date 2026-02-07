@@ -1,0 +1,869 @@
+theme	name	prompt
+action	courir	"A person running with dynamic forward motion, legs extended mid-stride, muscles engaged, with a minimal surrounding context that supports the action without defining a full scene."
+action	manger	"A person eating calmly, bringing food to their mouth with a natural posture, with a minimal surrounding context that supports the action without defining a full scene."
+action	dormir	"A person sleeping peacefully, body relaxed and eyes closed, with a minimal surrounding context that supports the action without defining a full scene."
+action	parler	"A person speaking, mouth slightly open and expression engaged, with a minimal surrounding context that supports the action without defining a full scene."
+action	ecrire	"A person writing with focused movement of the hand holding a pen, with a minimal surrounding context that supports the action without defining a full scene."
+action	lire	"A person reading attentively, eyes fixed on the text, with a minimal surrounding context that supports the action without defining a full scene."
+action	sauter	"A person jumping upward with legs bent and body lifted off the ground, with a minimal surrounding context that supports the action without defining a full scene."
+action	nager	"A person swimming with coordinated arm and leg movement, body streamlined, with a minimal surrounding context that supports the action without defining a full scene."
+action	chanter	"A person singing, mouth open and posture expressive, with a minimal surrounding context that supports the action without defining a full scene."
+action	danser	"A person dancing with fluid, rhythmic body movement, with a minimal surrounding context that supports the action without defining a full scene."
+action	jouer	"A person playing an activity with engaged, lively posture, with a minimal surrounding context that supports the action without defining a full scene."
+action	travailler	"A person working with focused attention on a task, with a minimal surrounding context that supports the action without defining a full scene."
+action	etudier	"A person studying, concentrating on learning material, with a minimal surrounding context that supports the action without defining a full scene."
+action	marcher	"A person walking at a steady pace, body balanced and moving forward, with a minimal surrounding context that supports the action without defining a full scene."
+action	regarder	"A person looking intently at something, eyes directed and focused, with a minimal surrounding context that supports the action without defining a full scene."
+action	ecouter	"A person listening attentively, body still and expression focused, with a minimal surrounding context that supports the action without defining a full scene."
+action	nettoyer	"A person cleaning with deliberate, repetitive motions, with a minimal surrounding context that supports the action without defining a full scene."
+action	cuisiner	"A person cooking with hands actively preparing food, with a minimal surrounding context that supports the action without defining a full scene."
+action	conduire	"A person driving, hands positioned for control and body oriented forward, with a minimal surrounding context that supports the action without defining a full scene."
+action	construire	"A person building something, hands performing precise constructive movements, with a minimal surrounding context that supports the action without defining a full scene."
+action	peindre	"A person painting with smooth brush strokes and focused posture, with a minimal surrounding context that supports the action without defining a full scene."
+action	dessiner	"A person drawing carefully with controlled hand motion, with a minimal surrounding context that supports the action without defining a full scene."
+action	voyager	"A person traveling, carrying themselves with purposeful forward movement, with a minimal surrounding context that supports the action without defining a full scene."
+action	acheter	"A person buying something, performing an exchange gesture, with a minimal surrounding context that supports the action without defining a full scene."
+action	vendre	"A person selling an item, offering it forward with intent, with a minimal surrounding context that supports the action without defining a full scene."
+action	recevoir	"A person receiving an item with open hands, with a minimal surrounding context that supports the action without defining a full scene."
+action	donner	"A person giving an object forward with an intentional gesture, with a minimal surrounding context that supports the action without defining a full scene."
+action	penser	"A person thinking quietly, posture reflective and gaze slightly distant, with a minimal surrounding context that supports the action without defining a full scene."
+action	sentir	"A person smelling something gently, bringing it closer with natural hand motion, with a minimal surrounding context that supports the action without defining a full scene."
+action	apprendre	"A person learning with attentive posture and cognitive focus, with a minimal surrounding context that supports the action without defining a full scene."
+action	expliquer	"A person explaining with expressive hand motion and engaged expression, with a minimal surrounding context that supports the action without defining a full scene."
+action	creer	"A person creating something with inventive, deliberate movements, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	belier	"Symbol of Aries represented as a dynamic ram with forward-driven posture, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	taureau	"Symbol of Taurus shown as a strong calm bull with grounded stance, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	gemeaux	"Symbol of Gemini depicted as dual figures expressing mirrored connection, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	cancer	"Symbol of Cancer shown as a stylized crab with curved protective form, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	lion	"Symbol of Leo represented as a proud lion with a raised confident posture, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	vierge	"Symbol of Virgo illustrated as a serene maiden holding an emblem of purity, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	balance	"Symbol of Libra shown as balanced scales in perfect equilibrium, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	scorpion	"Symbol of Scorpio depicted as a poised scorpion with curved tail, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	sagittaire	"Symbol of Sagittarius represented as an archer centaur drawing a bow, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	capricorne	"Symbol of Capricorn shown as a hybrid mountain goat with curved tail, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	verseau	"Symbol of Aquarius depicted as a water-bearer pouring flowing patterns, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	poissons	"Symbol of Pisces illustrated as two fish swimming in opposite directions, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_ascendant	"An astrological ascendant represented as a rising directional glyph, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	une_maison	"An astrological house symbol shown as a geometric segmented sector, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_zodiaque	"A zodiac wheel depicted as a circular chart holding twelve symbols, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_theme	"An astrology chart represented as a structured radial diagram, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_aspect	"An astrological aspect shown as clean geometric lines linking planetary points, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	une_conjonction	"An astrological conjunction illustrated as two planetary symbols aligned closely, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_trigone	"An astrological trine depicted as a triangular harmonious link, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_carre	"An astrological square illustrated as a four-angle tension marker, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_sextile	"An astrological sextile shown as a subtle supportive angle marker, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	une_opposition	"An astrological opposition represented as two symbols facing each other across an axis, with a minimal surrounding context that supports the action without defining a full scene."
+astrologie	un_retrograde	"A retrograde symbol illustrated as a planetary glyph marked with reversed motion, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_planete	"A planet depicted as a spherical celestial body with subtle atmospheric shading, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_etoile	"A star illustrated as a radiant point emitting sharp luminous rays, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_soleil	"The Sun shown as a glowing sphere with soft radiating corona, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_lune	"A moon represented as a cratered luminous sphere, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_galaxie	"A galaxy illustrated as a swirling spiral of luminous arms, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_telescope	"A telescope depicted as a precise optical instrument angled toward the sky, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_astronaute	"An astronaut shown in a space suit floating with controlled posture, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_satellite	"A satellite illustrated with solar panels and antenna arrays extended, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_orbite	"An orbit depicted as a curved trajectory line around a central body, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_comete	"A comet shown with a bright nucleus trailing a luminous tail, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_asteroïde	"An asteroid illustrated as an irregular rocky object drifting, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_constellation	"A constellation displayed as connected stars forming a symbolic outline, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_univers	"The universe depicted as an abstract expanse dotted with cosmic particles, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	vitesse-lumiere	"Light-speed represented as elongated streaks suggesting extreme velocity, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_trou_noir	"A black hole shown as a dark core surrounded by warped luminous rings, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_quasar	"A quasar illustrated as a brilliant energetic core emitting powerful jets, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_nebulosite	"A nebula shown as a diffuse cloud of glowing colors, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_meteorite	"A meteorite depicted as a textured fragment with scorched surface, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_calendrier_cosmique	"A cosmic calendar illustrated as a spiral timeline of universal events, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_eclipse	"An eclipse shown as a darkened disk partially covering a luminous body, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	une_fusee	"A rocket depicted with aerodynamic shape and subtle exhaust trail, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_observatoire	"An observatory illustrated as a dome with an open slit pointing upward, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_radiotelescope	"A radio telescope shown as a large parabolic dish angled skyward, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_cosmos	"The cosmos depicted as a vast abstract field speckled with star clusters, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	mercure	"Mercury shown as a small cratered planet with metallic tones, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	venus	"Venus illustrated as a glowing planet with dense cloud reflections, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	mars	"Mars depicted as a reddish rocky sphere with subtle dust patterns, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	terre	"Earth illustrated as a blue sphere with faint land-sea contrast, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	lune	"The Moon shown as a cratered satellite with soft reflected light, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	jupiter	"Jupiter illustrated as a giant striped planet with a swirling storm, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	saturne	"Saturn shown with elegant rings encircling its soft-toned sphere, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	uranus	"Uranus depicted as a pale tilted planet with subtle banding, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	neptune	"Neptune illustrated as a deep-blue gaseous sphere with faint storms, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	pluton	"Pluto shown as a distant icy dwarf planet with muted textures, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	soleil	"The Sun depicted as a radiant sphere with soft plasma patterns, with a minimal surrounding context that supports the action without defining a full scene."
+astronomie	un_geosynchrone	"A geosynchronous object illustrated as a satellite locked in stationary orbit, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	du_bœuf	"Beef represented as a fresh red cut with clean marbling, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	du_veau	"Veal shown as a pale tender slice with smooth texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	du_porc	"Pork depicted as a light-pink cut with subtle fat lines, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	de_l_agneau	"Lamb illustrated as a rich pink cut with fine marbling, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	du_cheval	"Horse meat shown as a dark lean cut with firm grain, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	de_la_volaille	"Poultry represented as a clean pale cut with soft texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_cotelette	"A chop illustrated with curved bone and tender flesh, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_faux-filet	"A striploin cut shown with elongated shape and rich marbling, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_entrecote	"A rib-eye cut depicted with central marbling ring, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_gigot	"A leg roast illustrated with rounded form and trimmed fat layer, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_epaule	"A shoulder cut shown with thicker grain and layered fat, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_roti	"A roast depicted as a tied cylindrical piece with even texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_bavette	"A flank cut illustrated as long, fibrous meat with visible grain, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_tendron	"A brisket-style cut shown with layered fat and cartilage, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_jarret	"A shank depicted with bone center and dense surrounding meat, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_escalope	"A thin slice of tender meat illustrated smooth and even, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_saucisse	"A sausage shown as a cylindrical meat link with subtle texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_merguez	"A merguez illustrated as a thin spicy red sausage, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	de_la_chair	"Meat flesh depicted as a generic raw portion with natural texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_abat	"Offal illustrated as a distinct organ cut with detailed texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	des_tripes	"Tripe shown as folded honeycomb textures, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	de_la_viande_hache	"Ground meat depicted as fine loose strands, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_couteau	"A butcher knife illustrated with a sharp wide blade, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_tranchoir	"A slicing tool shown as a heavy wide blade board set, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_billot	"A butcher block depicted as a thick wooden surface, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_etabli	"A workbench illustrated as a sturdy flat surface, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	un_tablier	"A butcher apron shown as a protective garment with thick fabric, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_chaine	"A hanging chain illustrated as sturdy metal links, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_decoupe	"A cut represented as a clean slicing action on meat, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	parer	"A trimming gesture depicted as precise removal of fat or edges, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	ficeler	"A tying action illustrated as wrapping string around a roast, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_maturation	"A meat aging process shown as a piece resting with subtle dehydration texture, with a minimal surrounding context that supports the action without defining a full scene."
+boucherie	une_vitrine	"A butcher display case illustrated as a clear chilled showcase, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_boulanger	"A baker depicted shaping dough with practiced hands, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_boulangere	"A female baker shown preparing dough with steady motion, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	de_la_farine	"Flour illustrated as a soft white powder forming a small mound, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	de_la_levure	"Yeast depicted as fine granules or small blocks, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	de_l_eau	"Water illustrated as a clear pouring stream, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_sel	"Salt shown as fine white crystals gathered in a small pile, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_petrissage	"A kneading action depicted as hands folding dough rhythmically, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_pate	"Dough illustrated as a smooth elastic mass shaped by hand, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_four	"An oven shown as a heated chamber with a simple open door, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_pain	"A loaf of bread depicted as a warm rustic shape, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_baguette	"A baguette shown as a long crisp loaf with golden crust, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_miche	"A round loaf illustrated with thick crust and dense shape, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_crouton	"A crouton depicted as a small crisp cube, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_mie	"The crumb of bread shown as a soft airy interior, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_croute	"A bread crust illustrated as a firm golden outer layer, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_croissant	"A croissant depicted with flaky curved layers, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_chocolatine	"A chocolate-filled pastry shown with folded golden layers, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_pain_au_chocolat	"A chocolate-filled pastry illustrated with rectangular folded shape, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_pain_au_lait	"A milk bun depicted as a soft smooth roll, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_brioche	"A brioche illustrated as a fluffy golden dome, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_viennoiserie	"A pastry item shown with delicate laminated layers, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_sucre	"Sugar depicted as fine sparkling grains, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_œuf	"An egg illustrated as a smooth oval shell, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_beurre	"Butter shown as a soft yellow block with smooth edges, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_gluten	"Gluten represented as an elastic dough strand, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_fermentation	"A fermentation process shown as dough rising with small air bubbles, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_dorure	"An egg-wash glaze illustrated as a shiny coat brushed onto dough, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_couteau	"A bakery knife depicted with a serrated blade, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_tranche	"A bread slice shown as a clean cut piece with visible crumb, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_etage	"A bakery shelf illustrated as a simple horizontal level, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_vitrine	"A bakery display case shown as a clear glass enclosure, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_tablier	"A baker’s apron depicted as a soft fabric garment tied at the waist, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_mitre	"A bread-scoring tool illustrated as a small guided blade, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_caisse	"A cash register shown as a compact payment device, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_client	"A customer depicted reaching toward baked goods with casual posture, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_vendeuse	"A bakery clerk illustrated offering a pastry with a friendly gesture, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_fournil	"A baking room represented as a simple workspace with muted equipment hints, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_couche	"A couche cloth depicted as a folded linen sheet for supporting dough, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_lame	"A scoring blade illustrated as a thin sharp tool, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_coupe	"A bread cut shown as a precise scoring mark on dough, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_poids	"A dough weight represented as a small calibrated mass, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_repos	"A resting phase illustrated as dough relaxed under a cloth, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_pousse	"A proofing stage shown as dough gently rising, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_fournee	"A batch of baked goods depicted as freshly released items, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_gaz	"Gas represented as a subtle flame or pressure line, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_temperature	"A temperature indicator illustrated as a clean rising gauge, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_petrin	"A mixer shown as a sturdy bowl with rotating hooks, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	du_sarrasin	"Buckwheat flour illustrated as a darker fine powder mound, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	une_tradition	"A traditional bread depicted as a long rustic loaf with bold scoring, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_pain_complet	"A whole-wheat loaf illustrated with dense grain texture, with a minimal surrounding context that supports the action without defining a full scene."
+boulangerie	un_sandwich	"A sandwich shown as layered ingredients between slices of bread, with a minimal surrounding context that supports the action without defining a full scene."
+chambre_dormir	une_chambre	a calm bedroom interior with soft lighting and simple furniture, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_lit	a neatly arranged bed with clean sheets and soft textures, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_matelas	a thick comfortable mattress placed on a simple bed frame, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_oreiller	a soft pillow resting at the head of a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_couette	a fluffy duvet slightly folded on a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_drap	a smooth bed sheet stretched neatly over a mattress, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_couverture	a warm blanket laid across a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_table_de_chevet	a small bedside table holding simple nighttime essentials, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_lampe_de_chevet	a soft-glowing bedside lamp on a small table, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_reveil	a compact alarm clock resting on a bedside table, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_armoire	a large wardrobe standing against a bedroom wall, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_commode	a wooden dresser with neatly arranged drawers, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_tiroir	a partially opened drawer showing simple personal items, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_cintre	a single clothes hanger suspended inside a wardrobe, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_tapis	a soft bedroom rug placed near the bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_rideau	a fabric curtain gently falling beside a window, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_fenetre	a simple bedroom window allowing soft ambient light, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_volet	a wooden shutter partially closed over a window, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_miroir	a bedroom mirror reflecting soft interior details, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_dressing	a built-in wardrobe with organized shelves and clothes, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_chaise	a simple bedroom chair placed beside a wall, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_bureau	a tidy bedroom desk with minimal objects on top, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_etagere	a small bedroom shelf holding a few neatly arranged items, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_livre	a book resting on a bedside table, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_poster	a decorative poster pinned to a bedroom wall, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_cadre	a framed picture displayed on a bedroom wall, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_veilleuse	a small nightlight emitting a gentle glow, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_peluche	a soft plush toy resting on a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_jouet	a simple toy placed on the bedroom floor, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_chaleur	a gentle warmth filling a quiet bedroom atmosphere, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_silence	a serene quietness characterizing a peaceful bedroom, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_sommeil	a person resting deeply in a calm environment, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_cauchemar	a tense moment of disturbed dreaming, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_reve	a soft dreamlike atmosphere suggesting gentle imagination, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_pyjama	a pair of comfortable pajamas laid neatly on a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_pantoufle	a cozy slipper resting beside a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_radiateur	a quiet radiator warming the bedroom, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_climatiseur	a compact air conditioner fixed near the window, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_interrupteur	a simple wall switch near a bedroom door, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_prise	an electrical outlet placed low on a bedroom wall, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_mur	a plain bedroom wall with soft shadows, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_plafond	a smooth bedroom ceiling with subtle lighting, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_plancher	a clean wooden bedroom floor, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_moquette	a soft carpeted floor with muted colors, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_parfum	a gentle bedroom fragrance bottle resting on a shelf, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_bougie	a lit candle giving off warm light, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_etendoir	a small indoor drying rack positioned discreetly, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_panier_a_linge	a laundry basket placed near a bedroom corner, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_poubelle	a small waste bin placed beside a desk, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_serrure	a bedroom door lock seen up close, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	dormir	a person resting peacefully in a calm bedroom atmosphere, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_sommeil	a serene state of deep rest suggested by soft surroundings, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_nuit	a quiet nighttime ambiance with dim light, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_repos	a gentle resting moment conveyed through a calm setting, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_reve	a subtle dreamy atmosphere suggesting imagination, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_cauchemar	a brief unsettling dreamlike tension, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_insomnie	a restless sleepless moment expressed with subtle tension, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_berceuse	a gentle lullaby sound suggested through soft visual cues, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_silence	a deep quiet atmosphere characteristic of a peaceful bedroom, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_obscurite	a soft darkness filling a calm interior space, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_lumiere	a dim warm light source creating a soothing ambiance, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_obscurcissement	a gentle dimming of light inside a quiet room, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_temperature	a subtle sense of ambient warmth or coolness, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_aeration	a slight airflow entering a calm room, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_lit	a neatly arranged bed with soft bedding, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_matelas	a thick comfortable mattress resting on a frame, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_sommier	a simple bed base supporting a mattress, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_couette	a fluffy duvet slightly folded, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_oreiller	a soft pillow positioned at the head of the bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_taie	a clean pillowcase laid neatly on fabric, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_housse	a protective cover carefully fitted on bedding, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_drap	a smooth sheet stretched across a mattress, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_pyjama	a pair of soft pajamas folded neatly, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_chemise_de_nuit	a light nightgown laid on bedding, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_tapis	a soft rug placed near a resting area, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_rideau_occultant	a thick blackout curtain hanging beside a window, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_store	a simple adjustable window blind, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_volet	a wooden shutter partially closed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_tisane	a warm herbal tea steaming gently in a cup, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_livre	a book resting near a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_histoire	a narrative atmosphere evoked by an open book, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_routine	a suggestion of nightly habits through simple objects, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_rituel	a soft pre-sleep ritual hinted by gentle lighting and objects, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_horloge	a quiet clock showing a late hour, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_sablier	a small hourglass with flowing sand, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_montre	a simple wristwatch placed on a bedside table, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_masque_de_sommeil	a soft sleep mask resting on fabric, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_bouchon_d_oreille	a pair of earplugs laid beside a pillow, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_peluche	a soft plush toy resting on a bed, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_doudou	a small comfort object placed gently on bedding, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_berceau	a simple crib with soft blankets, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_chaleur	a warm comforting atmosphere filling a quiet room, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_froid	a light sense of cool air in a dim space, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_bain	a warm bath moment suggested indirectly as part of a bedtime routine, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_relaxation	a calm relaxing sensation expressed through soft lighting, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	un_apaisement	a peaceful soothing atmosphere with gentle tones, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_fatigue	a subtle hint of tiredness in posture or gesture, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_sensation	a delicate sensory impression suggested visually, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_habitude	a repeated nighttime pattern hinted by familiar objects, with a minimal surrounding context that supports the action without defining a full scene.
+chambre_dormir	une_pensee	a quiet moment of introspection before sleep, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_tete	a human head shown with natural proportions and neutral expression, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_visage	a human face highlighted with soft lighting and calm detail, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_cheveu	a single strand of human hair shown in close-up texture, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_œil	a detailed human eye with realistic reflections, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_oreille	a human ear shown from the side with natural texture, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_nez	a human nose depicted from the front or profile, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_bouche	a human mouth in a neutral relaxed pose, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_cou	a human neck with natural posture and skin texture, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_epaule	a human shoulder slightly angled, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_bras	a human arm positioned naturally, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_main	a human hand shown in a relaxed position, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_doigt	a single human finger depicted in close detail, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_poitrine	a human chest shown with anatomical accuracy, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_ventre	a human abdomen displayed in a natural posture, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_dos	a human back with visible shoulder lines, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_hanche	a human hip shown from a natural angle, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_jambe	a human leg standing or slightly bent, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_genou	a human knee depicted in close detail, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_cheville	a human ankle shown in neutral pose, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_pied	a human foot resting naturally, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_orteil	a human toe shown in close-up, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_peau	a surface of human skin showing natural texture, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	une_gorge	a human throat area depicted softly, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_sourcil	a human eyebrow shown in close detail, with a minimal surrounding context that supports the action without defining a full scene.
+corps_humain	un_menton	a human chin depicted in natural portrait lighting, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_cuillere	a metal spoon resting on a clean surface, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_fourchette	a simple fork placed neatly with soft reflections, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_couteau	a kitchen knife with a sharp blade and ergonomic handle, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_assiette_plate	a flat ceramic plate shown from above, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_assiette_creuse	a deep bowl-like plate placed centrally, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_verre	a clear drinking glass catching soft highlights, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_bol	a small bowl with smooth curves, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_casserole	a cooking pot with metal handles, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_poele	a frying pan with a clean surface, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_four_electrique	an electric oven shown with its front panel visible, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_micro-onde	a microwave oven with a simple digital display, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_refrigerateur	a standing refrigerator with a clean modern design, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_tablier	a kitchen apron hanging or laid flat, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_fouet	a metal whisk with curved wires, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	un_robot_menager	a kitchen food processor with a transparent bowl, with a minimal surrounding context that supports the action without defining a full scene.
+cuisine	une_planche_a_decouper	a wooden cutting board with subtle knife marks, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_classe	a classroom with desks and chairs arranged neatly, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_professeur	a teacher standing in front of a class, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_eleve	a student sitting at a desk paying attention, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_tableau_noir	a blackboard with chalk writing, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_cahier	an open notebook showing written notes, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_livre	a school textbook open on a desk, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_stylo	a pen placed on paper, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_gomme	an eraser lying next to a notebook, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_crayon	a pencil ready to write, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_regle	a ruler laid on a desk, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_trousse	a pencil case containing pens and pencils, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_sac_a_dos	a school backpack leaning against a chair, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_bureau	a student desk with books and stationery, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_chaise	a school chair next to a desk, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_cour_de_recreation	a school playground with children, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_bibliotheque	a school library with bookshelves, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_gymnase	a gymnasium with sports equipment, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_cantine	a school cafeteria with tables and chairs, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_directeur	a school principal in an office, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_examen	a student taking a written exam, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_interrogation	a teacher questioning students, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_note	a graded paper showing a score, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	une_recreation	children playing outside during recess, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_college	a middle school building exterior, with a minimal surrounding context that supports the action without defining a full scene.
+ecole	un_lycee	a high school building with entrance, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_cheval	a horse standing in a stable or paddock, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_jument	a mare in a natural posture, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_poulain	a young foal near its mother, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_cavalier	a male rider on horseback wearing riding gear, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_cavaliere	a female rider on horseback in natural light, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_ecurie	a stable with horses inside, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_box	a horse stall with bedding, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_carriere	an outdoor riding arena with fences, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_manege	an indoor riding arena with clear space, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_selle	a horse saddle placed on a horse, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_bride	a horse bridle with reins, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_filet	a horse bit with straps, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_etrier	stirrups hanging from a saddle, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_sangle	a girth strap secured under a horse, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_bombe	a riding helmet placed on a table, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_cravache	a riding crop resting next to a horse, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_brosse	a horse grooming brush on a stable floor, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_pansage	a horse being groomed, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_galop	a horse galloping in an open field, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_trot	a horse trotting in an arena, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_obstacle	a jumping obstacle in a riding arena, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_randonnee	a horse trail ride through nature, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_fer	a horseshoe lying on the ground, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_marechal-ferrant	a farrier working on a horse's hoof, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_allure	a horse moving in a specific gait, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_mors	a horse bit in close-up detail, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_licol	a horse halter displayed on a horse, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_criniere	a horse mane flowing naturally, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	une_queue	a horse tail shown in natural posture, with a minimal surrounding context that supports the action without defining a full scene.
+equitation	un_sabot	a horse hoof in close detail, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_soleil	a bright sun shining in a clear sky, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_plage	a sandy beach with waves, with a minimal surrounding context that supports the action without defining a full scene.
+ete	des_vacances	people enjoying summer vacation outdoors, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_chaleur	hot summer sunlight creating warm shadows, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_mer	the sea with gentle waves, with a minimal surrounding context that supports the action without defining a full scene.
+ete	du_sable	sand on a beach with textured grains, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_maillot	a colorful swimsuit laid flat or worn, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_serviette	a beach towel spread on sand, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_creme	sunscreen cream in a small container, with a minimal surrounding context that supports the action without defining a full scene.
+ete	des_lunettes	sunglasses lying on a surface, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_parasol	a beach parasol providing shade, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_glace	an ice cream cone with visible texture, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_sorbet	a scoop of sorbet in a bowl, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_cocktail	a colorful summer cocktail in a glass, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_terrasse	an outdoor terrace with chairs and tables, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_barbecue	a barbecue grill with smoke rising, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_aperitif	a summer aperitif drink on a small table, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_fete	people celebrating at a summer party, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_nuit	a summer night sky with stars, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_nuage	a small cloud floating in a blue sky, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_short	summer shorts laid on a surface, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_robe	a summer dress displayed on a hanger, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_tong	a flip-flop shoe on sand, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_parc	a park scene with green grass and trees, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_camping	a camping tent in a natural area, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_moustique	a mosquito hovering in summer light, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_orage	a summer thunderstorm with clouds, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_voyage	people traveling during summer vacation, with a minimal surrounding context that supports the action without defining a full scene.
+ete	un_vent	a gentle summer breeze moving leaves, with a minimal surrounding context that supports the action without defining a full scene.
+ete	une_saison	a summer season scene with bright sunlight, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_tracteur	a red tractor in a farm field, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_vache	a cow grazing in a green pasture, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_cochon	a pig in a pen on a farm, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_mouton	a sheep standing on grass, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_chevre	a goat in a farm enclosure, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_poule	a hen walking on a farmyard, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_canard	a duck near a pond on a farm, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_oie	a goose standing on the grass, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_cheval	a horse in a paddock, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_chien	a farm dog lying or sitting, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_lapin	a rabbit in a hutch or small pen, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_champ	a cultivated field with crops, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_prairie	a green meadow with scattered flowers, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_etable	a barn interior with cows, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_porcherie	a pigsty with pigs inside, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_poulailler	a chicken coop with hens, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_grange	a large farm barn, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_silo	a tall grain silo near a barn, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_fenil	a hayloft or haystack in a barn, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_recolte	harvested crops in baskets, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_moisson	a field of ripe wheat ready for harvest, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_fourche	a pitchfork resting against a haystack, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_botte	a bundle of hay or straw tied together, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	de_la_paille	straw scattered on the ground, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_engrais	a bag of fertilizer on the field, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	une_irrigation	a farm irrigation system watering crops, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	du_lait	a glass of milk fresh from the farm, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	du_fromage	a block of cheese on a table, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_œuf	a fresh egg placed on straw, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_jardin	a farm garden with vegetables, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_agriculteur	a farmer working in the field, with a minimal surrounding context that supports the action without defining a full scene.
+ferme	un_apiculteur	a beekeeper tending beehives, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_arbre	a tall tree with leaves, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_bois	a pile of cut wood logs, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_feuille	a single green leaf on a branch, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_tronc	a tree trunk standing upright, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_racine	exposed roots of a tree in soil, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_ecorce	the textured bark of a tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_branche	a branch extending from a tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_chene	an oak tree with green foliage, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_sapin	a fir tree in a forest, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_clairiere	a small forest clearing with sunlight, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_lisiere	the edge of the forest with scattered trees, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_sous-bois	dense undergrowth with shrubs and small trees, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_sentier	a forest path winding through trees, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_mousse	green moss covering forest ground, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_fougere	a fern growing among trees, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_champignon	a mushroom growing in damp forest soil, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_sylviculture	a managed forest with marked trees, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_bucheron	a lumberjack cutting a tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_coupe	a tree stump after a cut, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_resineux	a coniferous tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_feuillu	a deciduous tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_cerf	a deer standing in the forest, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_chevreuil	a roe deer in forest vegetation, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_sanglier	a wild boar walking in the woods, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_renard	a fox moving through forest undergrowth, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_loup	a wolf standing in the forest, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_chouette	an owl perched on a branch, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_geai	a jay bird in a tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_nid	a bird nest in a tree, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_habitat	a forest habitat showing trees and ground cover, with a minimal surrounding context that supports the action without defining a full scene.
+foret	une_ombre	shadow of trees on forest floor, with a minimal surrounding context that supports the action without defining a full scene.
+foret	un_humus	rich forest soil with decomposing leaves, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_piano	a black grand piano on a stage, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_guitare_acoustique	an acoustic guitar resting on a stand, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_violon	a violin lying on a wooden table, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_batterie_de_instrument	a drum set arranged in a music room, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_trompette	a golden trumpet on a music stand, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_flute	a silver flute placed on a cloth, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_saxophone	a saxophone standing upright, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_harpe	a large harp with strings, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_tambour	a drum with sticks on top, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_clarinette	a black clarinet on a music table, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_violoncelle	a cello standing in a corner, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_guitare_electrique	an electric guitar leaning on an amp, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_orgue	a pipe organ in a church, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_caisse_claire	a snare drum on a stand, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_trombone	a brass trombone resting on a chair, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_harmonica	a small harmonica on a wooden surface, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_banjo	a banjo placed on a stool, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_mandoline	a mandolin lying on a table, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	une_cymbale	a cymbal leaning against a drum set, with a minimal surrounding context that supports the action without defining a full scene.
+instrument	un_balafon	a balafon (African xylophone) on a wooden frame, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_carotte	an orange carrot with green leaves, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_tomate	a red tomato on a vine, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_patate	a potato on soil, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_oignon	a whole onion with outer skin, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_ail	a garlic bulb with cloves, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_poivron	a bell pepper, red or green, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_courgette	a fresh green zucchini, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_aubergine	a purple eggplant, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_chou-fleur	a cauliflower head on a table, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_brocoli	a broccoli floret, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_laitue	a fresh green lettuce, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_haricot_vert	green beans in a bunch, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_concombre	a cucumber on a cutting board, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_radis	a small red radish, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_celeri	a celery stalk, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_epinard	fresh spinach leaves, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_champignon	a mushroom on soil, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_poireau	a leek with roots, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_citrouille	a large orange pumpkin, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_betterave	a red beet, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_fenouil	a fennel bulb with fronds, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_artichaut	an artichoke on a wooden table, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_chou_de_bruxelles	a Brussels sprout, with a minimal surrounding context that supports the action without defining a full scene.
+legume	une_patate_douce	a sweet potato on soil, with a minimal surrounding context that supports the action without defining a full scene.
+legume	un_avocat	a cut avocado showing the seed, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_mur	a solid wall of a house, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_toit	a house roof with tiles, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_fondation	a house foundation under construction, with a minimal surrounding context that supports the action without defining a full scene.
+maison	des_combles	an attic with beams, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_grenier	a house attic space, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_cave	a cellar with stone walls, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_façade	a house front facade, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_porte	a closed wooden door, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_fenetre	a window with glass panes, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_volet	a closed window shutter, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_cheminee	a brick fireplace on a house wall, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_gouttiere	a rain gutter along a roof edge, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_terrasse	a house terrace with chairs, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_balcon	a balcony on the second floor, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_escalier	an indoor staircase, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_palier	a landing between floors, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_plancher	a wooden floor inside a house, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_poutre	a wooden beam supporting the ceiling, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_tuile	a red roof tile, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_ardoise	a slate roof tile, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_brique	a single brick wall, with a minimal surrounding context that supports the action without defining a full scene.
+maison	du_ciment	a pile of cement bags, with a minimal surrounding context that supports the action without defining a full scene.
+maison	du_mortier	mortar on a trowel, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_isolation	insulation material inside walls, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_charpente	roof framing with wooden beams, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_pignon	a house gable, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_linteau	a lintel above a doorway, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_rez-de-chaussee	a ground floor of a house, with a minimal surrounding context that supports the action without defining a full scene.
+maison	un_etage	an upper floor of a house, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_parcelle	a small plot of land with a house, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_cloture	a fence surrounding a property, with a minimal surrounding context that supports the action without defining a full scene.
+maison	une_veranda	a glass veranda attached to a house, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_sommet	the peak of a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_pic	a pointed mountain peak, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_crevasse	a deep crevasse in ice or snow, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_glacier	a glacier flowing down a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_pente	a steep mountain slope, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_versant	a mountain side or hillside, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_falaise	a rocky cliff on a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	de_la_neige	snow covering a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_rocher	a large rock or boulder on a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_foret	a forest on a mountain slope, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_alpage	an alpine pasture, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_refuge	a mountain refuge hut, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_telecabine	a cable car in the mountains, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_remontee	a ski lift or mountain lift, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_randonnee	a hiking trail in the mountains, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_escalade	mountain climbing activity, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	du_ski	skiing on snowy slopes, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_surf	a snowboard on a mountain slope, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_raquette	snowshoes on a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_guide	a mountain guide assisting climbers, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_avalanche	an avalanche descending a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_boussole	a compass for mountain navigation, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_corde	a climbing rope on a mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_mousqueton	a carabiner attached to climbing gear, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_piolet	an ice axe for climbing, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_gant	a glove suitable for mountain conditions, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_vetement	mountain clothing for cold weather, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_chamois	a chamois on a mountain slope, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	une_marmotte	a marmot in the mountains, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_bouquetin	an ibex on a rocky mountain, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_sentier	a mountain path, with a minimal surrounding context that supports the action without defining a full scene.
+montagne	un_col	a mountain pass, with a minimal surrounding context that supports the action without defining a full scene.
+natation	la_natation	swimming activity in a pool or open water, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_nageur	a swimmer in action, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_piscine	a swimming pool filled with water, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_couloir	a swimming lane in a pool, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_ligne	a lane line in a pool, with a minimal surrounding context that supports the action without defining a full scene.
+natation	de_l_eau	water for swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_bassin	a pool basin, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_mur	a pool wall, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_virage	a swimmer turning at the end of a lane, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_plongeon	a diver performing a dive, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_crawl	swimming freestyle, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_brasse	swimming breaststroke, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_dos_crawle	backstroke swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_papillon	butterfly stroke swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_palme	a swim fin, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_lunette	swimming goggles, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_bonnet	a swim cap, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_maillot	a swimsuit, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_planche	a kickboard, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_pull_buoy	a pull buoy for training, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_changement	a swimmer changing lanes, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_vestiaire	a locker room, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_douche	a shower area, with a minimal surrounding context that supports the action without defining a full scene.
+natation	du_chlore	chlorinated water, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_respiration	swimmer taking a breath, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_apnee	breath-hold swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_battement	a swimmer's kick, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_mouvement	swimming movement, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_force	swimming strength, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_resistance	water resistance while swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_entrainement	swimming training session, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_course	a swimming race, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_depart	swimmer starting a race, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_arrivee	swimmer finishing a race, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_chrono	a stopwatch for swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_record	a swimming record achievement, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_medaille	a medal awarded for swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_arbitre	a swimming referee, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_podium	a winners' podium, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_nage_libre	freestyle swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_maitre_nageur	a lifeguard or swimming instructor, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_tuba	a snorkel for swimming, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_pince-nez	swimming nose clip, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_serviette	a towel near the pool, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_bouteille	a water bottle for swimmers, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_glisse	a glide through water, with a minimal surrounding context that supports the action without defining a full scene.
+natation	un_souffle	a swimmer's breath, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_endurance	swimming endurance, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_longueur	a pool length swum, with a minimal surrounding context that supports the action without defining a full scene.
+natation	une_seance	a swimming session, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_prairie	a meadow with grass and flowers, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	de_l_herbe	green grass covering the ground, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_fleur	a flower growing in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_champ	an open field, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_paturage	a grazing pasture, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_sol	soil ground of a meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	de_la_terre	the earth or soil, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_arbre	a single tree in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_buisson	a bush or shrub, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_colline	a hill in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_vallee	a valley in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_riviere	a small river flowing through the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_chemin	a dirt path crossing the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_sentier	a small trail in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_vent	a breeze blowing across the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_soleil	the sun shining over the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_nuage	a cloud in the sky above the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_ciel	the sky above the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_insecte	an insect flying in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_papillon	a butterfly over flowers, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_abeille	a bee collecting nectar, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_oiseau	a bird flying above the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_vache	a cow grazing, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_mouton	a sheep in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_fermier	a farmer in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_paysage	a landscape view of the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_horizon	the horizon over the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_brise	a gentle breeze in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_odeur	a scent from flowers or grass, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_silence	a quiet atmosphere in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_saison	a season in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_ete	summer time in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_printemps	spring season in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_fauche	cutting hay in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	du_foin	hay stacked in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_mare	a small pond in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_roche	a rock in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_ombre	a shadow on the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_rayon	a sunbeam in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_horizon	the distant horizon, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_cloture	a fence enclosing part of the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_tracteur	a tractor working in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_graine	a seed in the soil, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_pollinisation	pollination activity in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_campagne	countryside view with fields, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_ecureuil	a squirrel in the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_taupe	a mole on the meadow ground, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	un_mouvement	movement in the meadow, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_fraicheur	freshness of morning air, with a minimal surrounding context that supports the action without defining a full scene.
+prairie	une_vue	a panoramic view of the prairie, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_lion	a lion in the savannah, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_elephant	an elephant walking, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_leopard	a leopard resting on a tree, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_rhinoceros	a rhinoceros in the grassland, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_buffle	a buffalo grazing, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_girafe	a giraffe eating leaves, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_zebre	a zebra in the savannah, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_guepard	a cheetah running, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_hippopotame	a hippopotamus in water, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_gnou	a wildebeest in the plain, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_hyene	a hyena moving in the savannah, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_gazelle	a gazelle leaping, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_impala	an impala grazing, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_phacochere	a warthog foraging, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_autruche	an ostrich running, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_crocodile	a crocodile in water, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_singe	a monkey in the trees, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_4x4	a 4x4 vehicle on safari, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_savane	the savannah landscape, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_brousse	the bushland, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_parc	a safari park, with a minimal surrounding context that supports the action without defining a full scene.
+safari	une_tente	a tent in the safari camp, with a minimal surrounding context that supports the action without defining a full scene.
+safari	des_jumelles	binoculars for observing wildlife, with a minimal surrounding context that supports the action without defining a full scene.
+safari	un_carnet	a notebook for safari notes, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_canape	a sofa in the dining-living area, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_fauteuil	an armchair in the room, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_table_a_manger	a dining table, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_chaise	a chair at the table, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_buffet	a buffet cabinet, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_table_basse	a coffee table, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_meuble_tv	a TV stand, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_bibliotheque	a bookshelf, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_vitrine	a display cabinet, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_console	a game or media console, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_etagere	a shelf, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_luminaire	a lighting fixture, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_lustre	a chandelier, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_lampadaire	a floor lamp, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_tapis	a rug, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_rideau	a curtain, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_voilage	a sheer curtain, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_coussin	a cushion on the sofa, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_plaid	a throw blanket, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_miroir	a mirror on the wall, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_cadre	a picture frame, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_tableau	a painting, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_vase	a vase with flowers, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_bougie	a candle, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_repose-pieds	a footrest, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_pouf	a pouf or ottoman, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_carafe	a carafe for drinks, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_vaisselle	dishes on the table, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	des_couverts	cutlery, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_nappe	a tablecloth, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	une_cheminee	a fireplace in the room, with a minimal surrounding context that supports the action without defining a full scene.
+salle_a_manger	un_paravent	a folding screen, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_baignoire	a bathtub, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_douche	a shower, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_lavabo	a sink, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_miroir	a mirror above the sink, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_porte-serviette	a towel rack, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_serviette_de_bain	a bath towel, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_tapis_de_bain	a bath mat, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_savon_pour_corps	body soap, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_shampooing	shampoo, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_apres-shampooing	conditioner, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_brosse_a_dents	a toothbrush, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_dentifrice	toothpaste, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_peigne	a comb, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_brosse_a_cheveux	a hairbrush, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_seche-cheveux	a hair dryer, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_rasoir	a razor, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_creme_hydratante	moisturizing cream, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_distributeur_de_savon	a soap dispenser, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_trousse_de_toilette	a toiletry bag, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_poubelle_de_salle_de_bain	a bathroom trash can, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	du_papier_toilette	toilet paper, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_ventouse	a plunger, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_robinet	a faucet, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	un_ciel_de_pluie	a rain shower head, with a minimal surrounding context that supports the action without defining a full scene.
+salle_de_bain	une_etagere_de_salle_de_bain	a bathroom shelf, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_football	playing football, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_basketball	playing basketball, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_rugby	playing rugby, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_tennis	playing tennis, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_la_natation	swimming, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_l_athletisme	athletics track event, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_la_boxe	boxing, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_judo	judo practice, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_karate	karate training, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_cyclisme	cycling on a road, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_golf	playing golf, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_hockey	hockey game, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_volleyball	playing volleyball, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_handball	playing handball, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_l_escrime	fencing, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_la_gymnastique	gymnastics routine, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_l_escalade	rock climbing, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_l_aviron	rowing, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_la_voile	sailing, with a minimal surrounding context that supports the action without defining a full scene.
+sport	un_plongeon	a diving action, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_surf	surfing on waves, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_skateboard	skateboarding, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_badminton	playing badminton, with a minimal surrounding context that supports the action without defining a full scene.
+sport	de_l_equitation	equestrian riding, with a minimal surrounding context that supports the action without defining a full scene.
+sport	du_tir_a_l_arc	archery, with a minimal surrounding context that supports the action without defining a full scene.
+sport	l_halterophilie	weightlifting, with a minimal surrounding context that supports the action without defining a full scene.
+sport	un_triathlon	participating in a triathlon, with a minimal surrounding context that supports the action without defining a full scene.
+sport	un_pentathlon	participating in a pentathlon, with a minimal surrounding context that supports the action without defining a full scene.
+sport	une_course	running a race, with a minimal surrounding context that supports the action without defining a full scene.
+sport	une_randonnee	hiking on a trail, with a minimal surrounding context that supports the action without defining a full scene.
+sport	un_bobsleigh	bobsleigh ride, with a minimal surrounding context that supports the action without defining a full scene.
+sport	un_biathlon	biathlon competition, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_cuvette	a toilet bowl, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_abattant	a toilet seat, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_chasse_d_eau	a flush mechanism, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_reservoir	a water tank for toilet, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_flotteur	a float in the toilet tank, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_bidet	a bidet, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	du_papier	toilet paper, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_porte-papier	a toilet paper holder, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_balai	a toilet brush, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_desodorisant	an air freshener, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_aeration	ventilation, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_ventilation	ventilation system, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_eclairage	lighting, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_carrelage	tiled floor, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_lavabo	a washbasin, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_robinet	a faucet, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_miroir	a mirror, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_serviette	a hand towel, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_poubelle	a trash bin, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_produit	a hygiene product, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_liquide	a liquid cleaner, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_canalisation	plumbing pipe, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_siphon	a trap in plumbing, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_plongeur	a plunger tool, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_broyeur	a macerator, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_event	an air vent, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_separateur	a separator in plumbing, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	des_accessoires	toilet accessories, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_porte-manteau	a coat hook, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	une_etagere	a shelf, with a minimal surrounding context that supports the action without defining a full scene.
+toilettes	un_tapis_de_sol	a floor mat, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_transport	transport mode, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_vehicule	a vehicle, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_voiture	a car, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_moto	a motorcycle, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_velo	a bicycle, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_train	a train, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_avion	an airplane, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_bateau	a boat, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_bus	a bus, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_camion	a truck, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_taxi	a taxi, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_conducteur	a driver, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_passager	a passenger, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_route	a road, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_autoroute	a highway, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_voie	a lane, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_gare	a train station, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_aeroport	an airport, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_port	a port, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_gare_routiere	a bus station, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_billet	a ticket, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_ticket	a ticket, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_bagage	luggage, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_valise	a suitcase, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_voyage	a trip, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_depart	a departure, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_arrivee	an arrival, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_itineraire	an itinerary, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_carte	a map, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_signalisation	road signage, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_feu_tricolore	a traffic light, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_virage	a turn, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_embouteillage	a traffic jam, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_pont	a bridge, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_tunnel	a tunnel, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_peage	a toll, with a minimal surrounding context that supports the action without defining a full scene.
+transport	de_l_essence	fuel, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_moteur	an engine, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_roue	a wheel, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_frein	a brake, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_aerogare	an airport terminal, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_quai	a quay, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_hotesse	a flight attendant, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_capitaine	a captain, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_marin	a sailor, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_croisiere	a cruise, with a minimal surrounding context that supports the action without defining a full scene.
+transport	un_trajet	a journey, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_distance	a distance, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_vitesse	a speed, with a minimal surrounding context that supports the action without defining a full scene.
+transport	une_securite	safety measure, with a minimal surrounding context that supports the action without defining a full scene.

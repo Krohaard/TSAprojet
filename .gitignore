@@ -14,9 +14,15 @@
 *.pth
 phonetique/*.pdf
 image/*.pdf
+image/*.png
 repas/*.pdf
+repas/*.png
 travail/*.pdf
+travail/*.png
+travail/*.jpg
+travail/*.webp
 
 
 # EXCEPTION: Garder le Python embedded du projet
 !ComfyUI_windows_portable/python_embeded/
+!image/verso.png
