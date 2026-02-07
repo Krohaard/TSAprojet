@@ -8,26 +8,6 @@
 *.sublime-project
 *.sublime-workspace
 
-# Dépendances
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-
-# Fichiers de configuration locaux (si sensibles)
-.env
-.env.local
-config.local.py
-
-# OS
-Thumbs.db
-.DS_Store
 
 # Huge files
 *.safetensors
