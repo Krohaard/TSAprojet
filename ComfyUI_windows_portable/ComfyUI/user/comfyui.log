@@ -1,0 +1,101 @@
+## ComfyUI-Manager: installing dependencies done.
+[2026-02-07 07:39:27.535] ** ComfyUI startup time: 2026-02-07 07:39:27.535
+[2026-02-07 07:39:27.536] ** Platform: Windows
+[2026-02-07 07:39:27.536] ** Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+[2026-02-07 07:39:27.537] ** Python executable: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\python_embeded\python.exe
+[2026-02-07 07:39:27.539] ** ComfyUI Path: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI
+[2026-02-07 07:39:27.539] ** ComfyUI Base Folder Path: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI
+[2026-02-07 07:39:27.540] ** User directory: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\user
+[2026-02-07 07:39:27.571] ** ComfyUI-Manager config path: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\user\__manager\config.ini
+[2026-02-07 07:39:27.572] ** Log path: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\user\comfyui.log
+
+Prestartup times for custom nodes:
+[2026-02-07 07:39:30.061]    6.1 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-manager
+[2026-02-07 07:39:30.061] 
+[2026-02-07 07:39:33.987] Checkpoint files will always be loaded safely.
+[2026-02-07 07:39:34.211] Total VRAM 12227 MB, total RAM 32189 MB
+[2026-02-07 07:39:34.211] pytorch version: 2.10.0.dev20251212+cu128
+[2026-02-07 07:39:34.213] Set vram state to: NORMAL_VRAM
+[2026-02-07 07:39:34.214] Device: cuda:0 NVIDIA GeForce RTX 5070 Ti Laptop GPU : cudaMallocAsync
+[2026-02-07 07:39:34.255] Using async weight offloading with 2 streams
+[2026-02-07 07:39:34.256] Enabled pinned memory 14485.0
+[2026-02-07 07:39:34.390] working around nvidia conv3d memory bug.
+[2026-02-07 07:39:37.698] Using pytorch attention
+[2026-02-07 07:39:43.861] Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+[2026-02-07 07:39:43.861] ComfyUI version: 0.4.0
+[2026-02-07 07:39:43.928] ComfyUI frontend version: 1.33.13
+[2026-02-07 07:39:43.932] [Prompt Server] web root: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\python_embeded\Lib\site-packages\comfyui_frontend_package\static
+[2026-02-07 07:39:46.004] Total VRAM 12227 MB, total RAM 32189 MB
+[2026-02-07 07:39:46.004] pytorch version: 2.10.0.dev20251212+cu128
+[2026-02-07 07:39:46.006] Set vram state to: NORMAL_VRAM
+[2026-02-07 07:39:46.007] Device: cuda:0 NVIDIA GeForce RTX 5070 Ti Laptop GPU : cudaMallocAsync
+[2026-02-07 07:39:46.036] Using async weight offloading with 2 streams
+[2026-02-07 07:39:46.036] Enabled pinned memory 14485.0
+[2026-02-07 07:39:47.403] ### Loading: ComfyUI-Manager (V3.39)
+[2026-02-07 07:39:47.404] [ComfyUI-Manager] network_mode: public
+[2026-02-07 07:39:47.405] ### ComfyUI Revision: UNKNOWN (The currently installed ComfyUI is not a Git repository)
+[2026-02-07 07:39:47.661] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2026-02-07 07:39:47.684] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2026-02-07 07:39:47.758] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2026-02-07 07:39:47.855] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2026-02-07 07:39:47.949] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2026-02-07 07:39:48.955] [36;20m[C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux] | INFO -> Using ckpts path: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux\ckpts[0m
+[2026-02-07 07:39:48.958] [36;20m[C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux] | INFO -> Using symlinks: False[0m
+[2026-02-07 07:39:48.959] [36;20m[C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux] | INFO -> Using ort providers: ['CUDAExecutionProvider', 'DirectMLExecutionProvider', 'OpenVINOExecutionProvider', 'ROCMExecutionProvider', 'CPUExecutionProvider', 'CoreMLExecutionProvider'][0m
+[2026-02-07 07:39:49.715] C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux\node_wrappers\dwpose.py:26: UserWarning: DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly
+  warnings.warn("DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly")
+[2026-02-07 07:39:50.274] C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\python_embeded\Lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+[2026-02-07 07:39:51.821] FETCH ComfyRegistry Data: 5/124
+[2026-02-07 07:39:51.882] 
+Import times for custom nodes:
+[2026-02-07 07:39:51.883]    0.0 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\websocket_image_save.py
+[2026-02-07 07:39:51.883]    0.0 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Custom-Scripts-main
+[2026-02-07 07:39:51.884]    0.0 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-custom-scripts
+[2026-02-07 07:39:51.884]    0.0 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-manager
+[2026-02-07 07:39:51.885]    0.1 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\removebackgroundsuite
+[2026-02-07 07:39:51.885]    0.9 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui_controlnet_aux
+[2026-02-07 07:39:51.885]    1.4 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-ollama
+[2026-02-07 07:39:51.885]    2.1 seconds: C:\Users\lione\Documents\TSAprojet\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_LayerStyle_Advance
+[2026-02-07 07:39:51.886] 
+[2026-02-07 07:39:52.681] Context impl SQLiteImpl.
+[2026-02-07 07:39:52.682] Will assume non-transactional DDL.
+[2026-02-07 07:39:52.684] No target revision found.
+[2026-02-07 07:39:52.798] Starting server
+
+[2026-02-07 07:39:52.799] To see the GUI go to: http://127.0.0.1:8188
+[2026-02-07 07:39:54.277] [DEPRECATION WARNING] Detected import of deprecated legacy API: /scripts/ui.js. This is likely caused by a custom node extension using outdated APIs. Please update your extensions or contact the extension author for an updated version.
+[2026-02-07 07:39:54.277] [DEPRECATION WARNING] Detected import of deprecated legacy API: /extensions/core/groupNode.js. This is likely caused by a custom node extension using outdated APIs. Please update your extensions or contact the extension author for an updated version.
+[2026-02-07 07:39:55.166] [DEPRECATION WARNING] Detected import of deprecated legacy API: /scripts/ui/components/button.js. This is likely caused by a custom node extension using outdated APIs. Please update your extensions or contact the extension author for an updated version.
+[2026-02-07 07:39:55.189] [DEPRECATION WARNING] Detected import of deprecated legacy API: /scripts/ui/components/buttonGroup.js. This is likely caused by a custom node extension using outdated APIs. Please update your extensions or contact the extension author for an updated version.
+[2026-02-07 07:39:55.933] FETCH ComfyRegistry Data: 10/124
+[2026-02-07 07:40:00.192] FETCH ComfyRegistry Data: 15/124
+[2026-02-07 07:40:04.983] FETCH ComfyRegistry Data: 20/124
+[2026-02-07 07:40:09.445] FETCH ComfyRegistry Data: 25/124
+[2026-02-07 07:40:14.051] FETCH ComfyRegistry Data: 30/124
+[2026-02-07 07:40:18.177] FETCH ComfyRegistry Data: 35/124
+[2026-02-07 07:40:22.709] FETCH ComfyRegistry Data: 40/124
+[2026-02-07 07:40:26.893] FETCH ComfyRegistry Data: 45/124
+[2026-02-07 07:40:31.144] FETCH ComfyRegistry Data: 50/124
+[2026-02-07 07:40:36.307] FETCH ComfyRegistry Data: 55/124
+[2026-02-07 07:40:40.427] FETCH ComfyRegistry Data: 60/124
+[2026-02-07 07:40:44.669] FETCH ComfyRegistry Data: 65/124
+[2026-02-07 07:40:48.777] FETCH ComfyRegistry Data: 70/124
+[2026-02-07 07:40:53.111] FETCH ComfyRegistry Data: 75/124
+[2026-02-07 07:40:57.469] FETCH ComfyRegistry Data: 80/124
+[2026-02-07 07:41:01.703] FETCH ComfyRegistry Data: 85/124
+[2026-02-07 07:41:05.735] FETCH ComfyRegistry Data: 90/124
+[2026-02-07 07:41:09.885] FETCH ComfyRegistry Data: 95/124
+[2026-02-07 07:41:14.161] FETCH ComfyRegistry Data: 100/124
+[2026-02-07 07:41:30.344] FETCH ComfyRegistry Data: 105/124
+[2026-02-07 07:41:34.438] FETCH ComfyRegistry Data: 110/124
+[2026-02-07 07:41:38.747] FETCH ComfyRegistry Data: 115/124
+[2026-02-07 07:41:42.952] FETCH ComfyRegistry Data: 120/124
+[2026-02-07 07:41:46.865] FETCH ComfyRegistry Data [DONE]
+[2026-02-07 07:41:47.293] [ComfyUI-Manager] default cache updated: https://api.comfy.org/nodes
+[2026-02-07 07:41:47.347] FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json [DONE]
+[2026-02-07 07:41:47.713] [ComfyUI-Manager] All startup tasks have been completed.
+[2026-02-07 08:05:24.239] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-02-07 08:05:34.206] 
+Stopped server

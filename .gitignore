@@ -20,14 +20,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Dossiers spécifiques au projet
-output/
-models/
-input/
-temp/
-tmp/
-*.log
-
 # Fichiers de configuration locaux (si sensibles)
 .env
 .env.local
