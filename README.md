@@ -1,6 +1,62 @@
-# TSAprojet
-outil pour générer des images compréhensibles pour les enfants autistes
+##🎨 TSAprojet
+Apprendre, comprendre et lire en images.
+TSAprojet est un outil dédié à la création de supports visuels adaptés pour les enfants autistes (TSA). Il permet de générer des images claires associées à une décomposition syllabique précise pour faciliter l'apprentissage du vocabulaire et l'entrée dans la lecture.
 
+🌟 Objectifs du projet
+L'outil a été conçu pour accompagner les parents et les professionnels (orthophonistes, éducateurs) dans deux missions clés :
+
+Soutien Visuel : Générer des images compréhensibles pour illustrer des concepts ou du vocabulaire quotidien.
+
+Aide à la Lecture : Structurer les mots par syllabes pour faciliter le décodage et la prononciation.
+
+Renforcement à domicile : Offrir une solution simple pour créer des supports de travail personnalisés.
+
+🛠️ Fonctionnalités (en cours)
+🖼️ Génération d'images adaptées aux besoins sensoriels des enfants TSA.
+
+📖 Structure syllabique : Décomposition automatique des mots pour l'apprentissage de la lecture.
+
+📂 Interface intuitive pour une prise en main rapide par les familles.
+
+⚠️ Avertissement important (Note aux parents)
+Ce projet est un outil de soutien et de renforcement du travail à la maison.
+
+Il ne remplace en aucun cas le suivi médical, paramédical ou l'avis d'une équipe spécialisée (CRA, orthophonistes, pédopsychiatres, etc.). Il vient en complément des prises en charge existantes pour aider l'enfant dans son quotidien.
+
+🚀 Comment contribuer ?
+Le projet est né de la volonté d'aider. Si vous êtes développeur, designer ou professionnel de santé, vos idées sont les bienvenues pour améliorer l'outil !
+
+-------------------------------------------------------------------------------
+
+##🎨 TSAproject
+Learn, understand, and read through visuals.
+TSAproject is a tool dedicated to creating adapted visual aids for children on the autism spectrum (ASD). It generates clear imagery paired with precise syllabic breakdown to facilitate vocabulary building and literacy skills.
+
+🌟 Project Goals
+This tool is designed to support parents and professionals (speech therapists, educators) in two key missions:
+
+Visual Support: Generating easy-to-understand images to illustrate everyday concepts and vocabulary.
+
+Literacy Aid: Structuring words by syllables to simplify decoding and pronunciation.
+
+Home Reinforcement: Providing a simple solution to create personalized learning materials at home.
+
+🛠️ Key Features (In Development)
+🖼️ Image Generation: Visuals adapted to the sensory needs of children with ASD.
+
+📖 Syllabic Structure: Automatic word decomposition to assist in learning how to read.
+
+📂 User-Friendly Interface: Designed for quick and easy use by families and caregivers.
+
+⚠️ Important Disclaimer
+This project is a tool for support and home reinforcement only.
+
+It is not a substitute for professional medical follow-up, clinical therapy, or the guidance of a specialized medical team (speech pathologists, pediatric psychiatrists, etc.). It is intended to complement existing therapies to help the child in their daily life.
+
+🚀 How to Contribute?
+This project was born out of a desire to help. Whether you are a developer, designer, or healthcare professional, your ideas and contributions are welcome to make this tool even better!
+
+------------------------------------------------------------------------------------
 
 ## ⚖️ Licensing
 
