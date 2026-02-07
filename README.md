@@ -1,4 +1,4 @@
-##🎨 TSAprojet
+## 🎨 TSAprojet
 Apprendre, comprendre et lire en images.
 TSAprojet est un outil dédié à la création de supports visuels adaptés pour les enfants autistes (TSA). Il permet de générer des images claires associées à une décomposition syllabique précise pour faciliter l'apprentissage du vocabulaire et l'entrée dans la lecture.
 
@@ -28,7 +28,7 @@ Le projet est né de la volonté d'aider. Si vous êtes développeur, designer o
 
 -------------------------------------------------------------------------------
 
-##🎨 TSAproject
+## 🎨 TSAproject
 Learn, understand, and read through visuals.
 TSAproject is a tool dedicated to creating adapted visual aids for children on the autism spectrum (ASD). It generates clear imagery paired with precise syllabic breakdown to facilitate vocabulary building and literacy skills.
 
